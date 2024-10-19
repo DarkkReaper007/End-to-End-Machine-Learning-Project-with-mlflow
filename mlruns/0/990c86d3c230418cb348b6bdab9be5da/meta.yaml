@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/End-to-End-Machine-Learning-Project-with-mlflow/mlruns/0/990c86d3c230418cb348b6bdab9be5da/artifacts
+end_time: 1729344586289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 990c86d3c230418cb348b6bdab9be5da
+run_name: awesome-duck-943
+run_uuid: 990c86d3c230418cb348b6bdab9be5da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729344572802
+status: 4
+tags: []
+user_id: Lenovo

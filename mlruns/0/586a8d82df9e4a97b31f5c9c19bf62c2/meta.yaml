@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/End-to-End-Machine-Learning-Project-with-mlflow/mlruns/0/586a8d82df9e4a97b31f5c9c19bf62c2/artifacts
+end_time: 1729345499167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 586a8d82df9e4a97b31f5c9c19bf62c2
+run_name: fearless-snail-646
+run_uuid: 586a8d82df9e4a97b31f5c9c19bf62c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729345490616
+status: 4
+tags: []
+user_id: Lenovo
